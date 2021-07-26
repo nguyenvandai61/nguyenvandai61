@@ -4,14 +4,13 @@
   <a href="https://www.facebook.com/nguyenvandai61/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 </p>
 
-
-</p>
-
 <br>
 
+<p>
+  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvandai61" alt="Github Streak Stats">
+  <img alight="right" width="350" alt="nguyenvandai61's github stats" src="https://github-readme-stats.vercel.app/api?username=nguyenvandai61&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
+</p>
 <p align="left">
-  <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvandai61" alt="Github Streak Stats">
-  <img width="300" alt="nguyenvandai61's github stats" src="https://github-readme-stats.vercel.app/api?username=nguyenvandai61&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
-  <img width="300" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvandai61&layout=compact&theme=tokyonight&langs_count=10">
- </p>
-<img alight="right" src="./dev.png" width="300px">
+  <img width="350" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvandai61&layout=compact&theme=tokyonight&langs_count=10">
+  <img alight="right" src="./dev.png" width="350px">
+</p>
