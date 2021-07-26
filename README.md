@@ -12,5 +12,5 @@
 </p>
 <p align="left">
   <img width="350" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvandai61&layout=compact&theme=tokyonight&langs_count=10">
-  <img alight="right" src="./dev.png" width="350px">
+  <img alight="right" src="./dev.jpg" width="350px">
 </p>
