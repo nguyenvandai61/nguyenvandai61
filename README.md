@@ -8,12 +8,13 @@
 </p>
 
 <br>
-
-<p>
-  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvandai61" alt="Github Streak Stats">
-  <img alight="right" width="350" alt="nguyenvandai61's github stats" src="https://github-readme-stats.vercel.app/api?username=nguyenvandai61&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
-</p>
-<p align="left">
-  <img width="350" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvandai61&layout=compact&theme=tokyonight&langs_count=10">
-  <a href="https://app.daily.dev/nguyenvandai61"><img src="https://api.daily.dev/devcards/7ff8c56cd852407fb0303bf3f1e0ff3d.png?r=f5v" width="400" alt="Dai's Dev Card"/></a>
-</p>
+<table border="0">
+ <tr>
+    <td width="50%" align="center">
+      <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvandai61" alt="Github Streak Stats">
+      <img width="350" alt="nguyenvandai61's github stats" src="https://github-readme-stats.vercel.app/api?username=nguyenvandai61&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+      <img width="350" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvandai61&layout=compact&theme=tokyonight&langs_count=10">
+   </td>
+    <td align="center"> <a href="https://app.daily.dev/nguyenvandai61"><img width="350" src="https://api.daily.dev/devcards/7ff8c56cd852407fb0303bf3f1e0ff3d.png?r=f5v" width="400" alt="Dai's Dev Card"/></a></td>
+ </tr>
+</table>
