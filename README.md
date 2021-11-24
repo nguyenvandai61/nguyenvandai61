@@ -1,5 +1,8 @@
 ### Welcome to my github!
 <p align="center">
+  <img alight="right" src="./dev.jpg" width="350px">
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenvandai61&label=Profile%20views&color=f69673&style=flat" alt="nguyenvandai61" />
   <a href="https://www.facebook.com/nguyenvandai61/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
 </p>
@@ -12,5 +15,5 @@
 </p>
 <p align="left">
   <img width="350" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvandai61&layout=compact&theme=tokyonight&langs_count=10">
-  <img alight="right" src="./dev.jpg" width="350px">
+  <a href="https://app.daily.dev/nguyenvandai61"><img src="https://api.daily.dev/devcards/7ff8c56cd852407fb0303bf3f1e0ff3d.png?r=f5v" width="400" alt="Dai's Dev Card"/></a>
 </p>
